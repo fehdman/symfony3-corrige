@@ -1,0 +1,7 @@
+iknsa_post_post:
+    resource: "@IKNSAPostBundle/Resources/config/routing/post.yml"
+    prefix:   /post
+
+iknsa_post_homepage:
+    path:     /
+    defaults: { _controller: IKNSAPostBundle:Post:index }

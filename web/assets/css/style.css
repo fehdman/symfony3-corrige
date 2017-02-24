@@ -1,0 +1,63 @@
+body{
+    background-color: #dcdfe5;
+}
+
+.imgTop{
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 500px
+}
+.content{
+    margin-top: 525px;
+}
+
+.navbar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+
+.author{
+    padding: 15px;
+    position: relative;
+    height: 200px;
+    background-color: white;
+}
+
+.datePost{
+    position: absolute;
+    right: 20px;
+    top: 50px;
+}
+
+.buttons .btn{
+    float: right;
+    margin-right: 5px;
+}
+.btn{
+    float: right;
+    margin-right: 5px;
+}
+
+article{
+    padding: 25px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+.imgArticle{
+    float: none;
+    padding: 0;
+}
+
+.articleTitle{
+    margin-top: 0px;
+}
+ 
+.login{
+    background-color: white;
+}

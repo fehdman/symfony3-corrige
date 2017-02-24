@@ -1,0 +1,3 @@
+iknsa_comment_homepage:
+    path:     /
+    defaults: { _controller: IKNSAPostBundle:Post:index }

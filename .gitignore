@@ -97,3 +97,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+/composer.lock
+/bower_components/
+/node_modules/
+/web/dist/
+/web/app/styles/
+/web/uploads/
+.sass-cache/
